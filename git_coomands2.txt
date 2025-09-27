@@ -31,3 +31,21 @@ ls
    git restore testing2.py
    git status
    git history
+   git add
+   git add .
+   status
+   git status
+   git commit -m "added git commands"
+   git status
+   git remote add origin https://github.com/sandeeprlb/github-for-devops-practice.git
+   git remote -v
+   https://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github.comsandeeprlb/github-for-devops-practice.git
+   git remote set-url origin https://ghp_MbJLGNr4ly57S3pId6KVSVp3h7esHW2IzYgithub.comsandeeprlb/github-for-devops-practice.git
+   git remote -v
+   git push origin master
+   git remote -v
+   git branch
+   git remote -v
+   git remote set-url origin https://ghp_MbJLGNr4ly57S3pId6KVSVp3h7esHW2IzY@github.com/sandeeprlb/github-for-devops-practice.git
+   git remote -v
+   git push origin master
