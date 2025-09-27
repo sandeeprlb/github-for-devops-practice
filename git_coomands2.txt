@@ -1,0 +1,33 @@
+ls
+    dir
+    rm testing.py
+    rm testing2.py
+    git init
+    ls
+   dir
+   ls -Force
+   git status
+   git branch
+   git branch
+   git branch -m master
+   git status
+   dir
+   & C:/Users/SANDEEP/AppData/Local/Programs/Python/Python313/python.exe c:/Users/SANDEEP/OneDrive/Documents/dev-work/devOps-by-sky/github-f... 
+   git status
+   git add testing2.py
+   clear
+   git status
+   git rm --cached testing2.py
+   git status
+   git add .
+   git status
+   git commit -m "added testing file"
+    clear
+   git status
+   rm testing.py
+   clear
+   rm testing2.py
+   git status
+   git restore testing2.py
+   git status
+   git history
